@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I received my Bachelor's degree from [the School of Mathematics and Statistics](https://www5.zzu.edu.cn/math/), Zhengzhou University in 2014.  
+I earned my Ph.D. in 2023 from [the Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences, under the supervision of Academician [Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests include: multiscale fracture mechanics, computational mechanics, and neural network methods for numerical computation.
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:raoyipeng@qq.com) / [Github](https://github.com/sukaku-r)
+
 
 A data-driven personal website
 ======
