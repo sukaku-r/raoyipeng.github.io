@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I received my Bachelor's degree from [the School of Mathematics and Statistics](https://www5.zzu.edu.cn/math/), Zhengzhou University in 2014.  
 I earned my Ph.D. in 2023 from [the Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences, under the supervision of Academician [Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html).
 
