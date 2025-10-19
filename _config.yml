@@ -156,6 +156,8 @@ analytics:
   google:
     tracking_id          :
 
+include:
+  - "*.pdf"
 
 # Reading Files
 include:
