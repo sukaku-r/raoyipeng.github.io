@@ -12,7 +12,7 @@ I earned my Ph.D. in 2023 from [the Academy of Mathematics and Systems Science](
 
 My research interests include: multiscale fracture mechanics, computational mechanics, and neural network methods for numerical computation.
 
-You can find my CV here: [my Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:raoyipeng@qq.com) / [Github](https://github.com/sukaku-r)
 
