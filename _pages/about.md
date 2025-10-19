@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Your Name - Personal Academic Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,6 @@ With a genuine love for mathematics, I dedicate my spare time to studying academ
 You can find my CV here: [Curriculum Vitae]({{ site.baseurl }}/assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:raoyipeng@qq.com) / [Github](https://github.com/sukaku-r)
-
 
 A data-driven personal website
 ======
