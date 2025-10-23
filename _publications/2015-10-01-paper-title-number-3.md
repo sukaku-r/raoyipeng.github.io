@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "A second-order strain gradient fracture model for the brittle materials with micro-cracks by a multiscale asymptotic homogenization"
 collection: publications
 category: manuscripts
 permalink: https://link.springer.com/article/10.1007/s00466-023-02281-3
