@@ -29,7 +29,7 @@ author:
   name             : "Yipeng Rao"
   pronouns         : # example: "she/her"  
   bio              : "Only love can sustain the long journey of time."
-  location         : "Hunan/Changsha"
+  location         : "Changsha, Hunan, China"
   employer         : "PKU-Changsha Institute for Computing and Digital Economy"
   uri              : # URL
   email            : "raoyipeng@qq.com" 
@@ -158,11 +158,10 @@ analytics:
   google:
     tracking_id          :
 
-include:
-  - "*.pdf"
 
 # Reading Files
 include:
+  - "*.pdf"
   - .htaccess
   - _pages
   - files
