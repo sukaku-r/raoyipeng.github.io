@@ -7,17 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I received my Bachelor's degree from [the School of Mathematics and Statistics](https://www5.zzu.edu.cn/math/), Zhengzhou University in 2014.  
-I earned my Ph.D. in 2023 from [the Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences, under the supervision of Academician [Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html).
+### 🎓 Education
+- **Ph.D.** in Computational Mathematics (2023)  
+  Academy of Mathematics and Systems Science, CAS  
+  *Supervisor: [Academician Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html)*
 
-My research interests include: multiscale fracture mechanics, computational mechanics, and neural network methods for numerical computation.
+- **B.S.** in Information and Computing Science (2018)  
+  School of Mathematics and Statistics, Zhengzhou University
 
-With a genuine love for mathematics, I dedicate my spare time to studying academic papers and deep-diving into challenging problems. As an example, here are my exploratory notes on [University Mathematics Problem Collection]({{ site.baseurl }}/files/problem.pdf).
+### 🔬 Research Interests
+- Multiscale Fracture Mechanics
+- Computational Mechanics  
+- Neural Network Methods for Numerical Computation
 
-You can find my CV here: [Curriculum Vitae]({{ site.baseurl }}/files/Curriculum_Vitae.pdf).
+### 📚 Personal Statement
+With a genuine love for mathematics, I dedicate my spare time to studying academic papers and deep-diving into challenging problems.
 
-[Email](mailto:raoyipeng@qq.com) / [Github](https://github.com/sukaku-r)
+### 📄 Resources
+- [University Mathematics Problem Collection]({{ site.baseurl }}/files/problem.pdf)
+- [Curriculum Vitae]({{ site.baseurl }}/files/Curriculum_Vitale.pdf)
 
-
-A data-driven personal website
-======
+### 📫 Contact
+- [Email](mailto:raoyipeng@qq.com)
+- [GitHub](https://github.com/sukaku-r)
