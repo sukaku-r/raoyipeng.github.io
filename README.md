@@ -23,7 +23,7 @@ When you are initially working on your website, it is very useful to be able to 
 
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
+   
     On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
     ```bash
     sudo apt install ruby-dev ruby-bundler nodejs
@@ -85,7 +85,7 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 
 ---
 <div align="center">
-    
+
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
 [![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
@@ -94,3 +94,30 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+
+
+# 一些说明
+
+在publications部分，若加入以下文件`2022-01-04-jmps.md`
+
+
+
+```markdown
+---
+title: "A strain gradient brittle fracture model based on two-scale asymptotic analysis"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-01-04-jmps
+excerpt: 'Based on a two-scale asymptotic analysis procedure, we rigorously derive a new macroscopic brittle fracture model for materials with micro-cracks inside. Strain gradient effects are naturally involved in the model in the absence of any phenomenological assumptions. Coefficients of the fracture criterion are expressed in form of derivatives of the fourth- and sixth-order effective elastic tensors that are explicitly related to solutions of the first order unit cell problems. The model is numerically implemented into a finite element code. Abilities of the model to predict microstructure size effects and strain gradient effects on macro fracture behaviors are confirmed by numerical simulations. The model is also validated against experimental measurements.'
+date: 2022-01-04
+venue: 'Journal of the Mechanics and Physics of Solids'
+paperurl: 'https://sukaku-r.github.io/raoyipeng.github.io/files/JMPS_2022.pdf'
+bibtexurl: 'https://sukaku-r.github.io/raoyipeng.github.io/files/JMPS_2022_reference.bib'
+citation: 'Y. Rao, M. Xiang, and J. Cui. (2022). &quot;A strain gradient brittle fracture model based on two-scale asymptotic analysis.&quot; <i>Journal of the Mechanics and Physics of Solids</i>. 159, 104752.'
+---
+ **Additional publication details can be found at: "https://www.sciencedirect.com/science/article/abs/pii/S0022509621003550".**
+ 
+ # category 可选manuscripts/conferences，否则会不显示
+ # citation的g: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+```
