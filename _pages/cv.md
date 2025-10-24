@@ -58,13 +58,6 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Academic Competitions
-======
-* **全国高中数学联赛省二等奖**（河南赛区） *• 2013年10月*
-* **第七届全国大学生数学竞赛数学类预赛三等奖**（河南赛区） *• 2015年11月*
-* **第八届全国大学生数学竞赛数学类预赛一等奖**（河南赛区） *• 2016年11月*
-* **第八届全国大学生数学竞赛数学类决赛一等奖**（高年级组） *• 2017年3月*
-
 Service and leadership
 ======
 * Member, China Society for Industrial and Applied Mathematics (CSIAM), 2020-2023
