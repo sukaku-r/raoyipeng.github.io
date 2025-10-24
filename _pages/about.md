@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me
 
-I was born in Zhoukou City, Henan Province, and have been fascinated by logical reasoning since childhood, which led to my strong performance in mathematics. Even during middle school, I would often ponder mathematical problems in other classes. This passion guided me to the School of Mathematics and Statistics at Zhengzhou University, where I began to fully pursue my academic interests—a journey that continues to this day.
+I was born and raised in Zhoukou, a city in Henan Province. Ever since I was a child, I’ve been drawn to logical thinking—something that naturally led me to fall in love with math. I remember even in middle school, I’d often find myself quietly working on math problems during other classes. That passion eventually brought me to the School of Mathematics and Statistics at Zhengzhou University, where I started to truly dive into my academic interests—a journey that I’m still happily pursuing today.
 
-I appreciate a slow-paced lifestyle, and an after-meal walk is an essential part of my daily routine. These walks help me organize my thoughts and calm my mind. I also enjoy playing table tennis, though I've had little time for it since starting graduate studies. I hope to pick up this hobby again in the future.
+I enjoy living at a slower pace. Taking a walk after meals has become a daily ritual for me—it helps me clear my head and sort through my thoughts. I’m also a casual table tennis player, though I haven’t had much time to play since starting grad school. Hopefully, I can pick up the paddle again soon!
 
-Additionally, I am an avid user of Bilibili, where I spend my leisure time following interesting content creators who share their lives, comment on current affairs, and reflect on society and the meaning of life.
+When I’m relaxing, you’ll often find me browsing Bilibili. I like following creators who share slices of life, talk about social issues, or just reflect on what gives life meaning. It’s a nice way to unwind and see the world through different lenses.
 
 ## Education
 
