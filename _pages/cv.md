@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computational Mathematics, University of Chinese Academy of Sciences, 2023
+  * Supervisor: Academician Junzhi Cui
+* B.S. in Information and Computing Science, Zhengzhou University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-2025: Assistant Researcher
+  * PKU-Changsha Institute for Computing and Digital Economy
+  * Duties included: Research and development of AI healthcare large language models based on NLP technologies and deep learning methods
+    - Developed medical information retrieval systems for AI diagnostic assistants (90%+ accuracy)
+    - Built hospital intelligent guidance services using Neo4j graph database technology (95%+ accuracy)
+    - Led clinical trial matching systems utilizing LLM and OCR technologies
+    - Served as technical lead for cerebrovascular disease prediction project (90%+ accuracy)
+  * Supervisor: Professor Bin Dong
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Numerical Methods & Scientific Computing**
+  * Finite Element Method (FEM), Finite Difference Method (FDM), PDE numerical solving
+  * Proficient in Matlab, FreeFEM++, COMSOL, NumPy, SciPy
+  * High-performance computing environments
+
+* **Programming & AI Development** 
+  * Python programming, Data analysis/cleaning
+  * LLM pre-training, fine-tuning and local deployment
+  * Docker containerization, DevOps
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member, China Society for Industrial and Applied Mathematics (CSIAM), 2020-2023

@@ -119,5 +119,23 @@ citation: 'Y. Rao, M. Xiang, and J. Cui. (2022). &quot;A strain gradient brittle
  **Additional publication details can be found at: "https://www.sciencedirect.com/science/article/abs/pii/S0022509621003550".**
  
  # category 可选manuscripts/conferences，否则会不显示
- # citation的g: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+ # citation的格式推荐为: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+```
+
+下面是一个会议论文模板
+
+```markdown
+---
+title: "Paper Title Number 5, with math $$E=mc^2$$"
+collection: publications
+category: conferences---
+permalink: /publication/2025-06-08-conferences
+excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2025-06-08
+venue: 'GitHub Journal of Bugs'
+paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
 ```
