@@ -19,7 +19,8 @@ When I’m relaxing, you’ll often find me browsing Bilibili. I like following 
 
 **Ph.D. in Computational Mathematics** (2023)  
 *Academy of Mathematics and Systems Science, Chinese Academy of Sciences*  
-Supervisor: [Academician Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html)
+Supervisor: [Academician Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html)  
+*Research Focus: Computational Mechanics, Multiscale Fracture Mechanics*
 
 **B.S. in Information and Computing Science** (2018)  
 *School of Mathematics and Statistics, Zhengzhou University*
@@ -29,6 +30,13 @@ Supervisor: [Academician Junzhi Cui](http://homepage.amss.ac.cn/research/homePag
 - **Multiscale Fracture Mechanics**
 - **Computational Mechanics** 
 - **Neural Network Methods for Numerical Computation**
+
+## 🏆 Academic Competitions
+
+- **National First Prize**, 8th National College Mathematics Competition (Final) *• March 2017*
+- **First Prize**, 8th National College Mathematics Competition (Henan Division) *• November 2016*
+- **Third Prize**, 7th National College Mathematics Competition (Henan Division) *• November 2015*
+- **Second Prize**, National High School Mathematics Competition (Henan Division) *• October 2013*
 
 ## Resources
 
