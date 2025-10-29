@@ -41,8 +41,8 @@ Research Focus: Computational Mechanics, Multiscale Fracture Mechanics
 
 ## Resources
 
-🔬 **Research Notes**: [Problem Solving]({{ site.baseurl }}/files/problem.pdf)  
-📄 **Academic CV**: [Curriculum Vitae]({{ site.baseurl }}/files/Curriculum_Vitae.pdf)
+- 🔬 **Research Notes**: [Problem Solving]({{ site.baseurl }}/files/problem.pdf)
+- 📄 **Academic CV**: [Curriculum Vitae]({{ site.baseurl }}/files/Curriculum_Vitae.pdf)
 
 ## Contact
 
