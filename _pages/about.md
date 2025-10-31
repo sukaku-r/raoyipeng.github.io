@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me
 
-I was born and raised in Zhoukou, a city in Henan Province. Ever since I was a child, I’ve been drawn to logical thinking—something that naturally led me to fall in love with math. I remember even in middle school, I’d often find myself quietly working on math problems during other classes. That passion eventually brought me to the School of Mathematics and Statistics at Zhengzhou University, where I started to truly dive into my academic interests—a journey that I’m still happily pursuing today.
+I was born and raised in Zhoukou, a city in Henan Province. From a young age, I’ve been fascinated by logical thinking — a curiosity that naturally led me to fall in love with mathematics. Even in middle school, I often found myself quietly working on math problems during other classes. That passion eventually brought me to the School of Mathematics and Statistics at Zhengzhou University, where I began to explore my academic interests more deeply — a journey I’m still wholeheartedly pursuing today.
 
-I enjoy living at a slower pace. Taking a walk after meals has become a daily ritual for me—it helps me clear my head and sort through my thoughts. I’m also a casual table tennis player, though I haven’t had much time to play since starting grad school. Hopefully, I can pick up the paddle again soon!
+I enjoy living life at a slower, more deliberate pace. Taking a walk after meals has become a daily ritual that helps me clear my mind and organize my thoughts. I’m also a casual table tennis player, though I haven’t had much time to play since starting graduate school — something I hope to change soon.
 
-When I’m relaxing, you’ll often find me browsing Bilibili. I like following creators who share slices of life, talk about social issues, or just reflect on what gives life meaning. It’s a nice way to unwind and see the world through different lenses.
+When I’m relaxing, you’ll often find me browsing Bilibili. I enjoy watching creators who share everyday moments, discuss social issues, or reflect on what gives life meaning. It’s a refreshing way to unwind and see the world from different perspectives.
 
 ## Education
 
