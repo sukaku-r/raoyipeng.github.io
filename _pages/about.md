@@ -22,6 +22,10 @@ When I’m relaxing, you’ll often find me browsing Bilibili. I enjoy watching 
 Supervisor: [Academician Junzhi Cui](http://homepage.amss.ac.cn/research/homePage/7c98177290ea438aa989559f0e3fa4c7/myHomePage.html)  
 Research Focus: Computational Mechanics, Multiscale Fracture Mechanics
 
+**Visiting Graduate Researcher** (2019-2023)  
+*Institute of Applied Physics and Computational Mathematics, Beijing*  
+Supervisor: [Prof. Meizhen Xiang](http://www.iapcm.ac.cn/teams_head_con_293.html)  
+
 **B.S. in Information and Computing Science** (2018)  
 *School of Mathematics and Statistics, Zhengzhou University*
 
