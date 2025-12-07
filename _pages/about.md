@@ -46,7 +46,8 @@ Supervisor: [Prof. Meizhen Xiang](http://www.iapcm.ac.cn/teams_head_con_293.html
 ## Resources
 
 - 📚 **Problem Collections**: [Problem Solving 1]({{ site.baseurl }}/files/problem.pdf) from *the University Mathematics Journal*
-- 📚 **Problem Collections**: [Problem Solving 2]({{ site.baseurl }}/files/Analytic_Geometry_Problem_Set.pdf)
+- 📚 **Problem Collections**: [Problem Solving 2]({{ site.baseurl }}/files/problem_2.pdf)
+- 📚 **Problem Collections**: [Problem Solving 3]({{ site.baseurl }}/files/Analytic_Geometry_Problem_Set.pdf)
 - 📄 **Academic CV**: [Curriculum Vitae]({{ site.baseurl }}/files/Curriculum_Vitae.pdf)
 
 ## Contact
